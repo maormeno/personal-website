@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import Counter from './Counter';
 import './App.css';
 
 
@@ -8,9 +9,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p style={{color: 'gold', fontSize: '50px'}}>
-          mi nombre es Mateo
-        </p>
+        {/* // <p style={{color: 'gold', fontSize: '50px'}}>
+        //   mi nombre es Mateo
+        // </p> */}
+        <Counter />
         <img src={logo} className="App-logo" alt="logo" />
         <p style={{fontSize: '5px'}}>
           Edit <code>src/App.tsx</code> and save to reload.
