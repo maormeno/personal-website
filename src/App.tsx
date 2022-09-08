@@ -1,32 +1,29 @@
 import React from 'react';
 import logo from './logo.svg';
 import Counter from './Counter';
-import './App.css';
+import {NewFlow} from './utils/flow/flows';
+import {tabAnimatedIcon} from './utils/flowicon/tabAnimation'
+import { AppContainer } from './App.styled';
 
 
 function App() {
 
+  tabAnimatedIcon();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        {/* // <p style={{color: 'gold', fontSize: '50px'}}>
-        //   mi nombre es Mateo
-        // </p> */}
+    <AppContainer>
+      <div style={{flex:'1 1 0', alignContent:"center", justifyContent:"center"}}>
         <Counter />
-        <img src={logo} className="App-logo" alt="logo" />
-        <p style={{fontSize: '5px'}}>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+      </div>
+      <div style={{flex:'1 1 0'}}>
+        <NewFlow/>
+      </div>
+      <div style={{flex:'1 1 0', alignContent:"center", justifyContent:"center"}}>
+          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran" >
           Don't Click
-        </a>
-      </header>
-    </div>
+          </a>
+      </div>
+    </AppContainer>
   );
 }
 
