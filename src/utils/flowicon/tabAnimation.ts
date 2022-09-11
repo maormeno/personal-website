@@ -5,7 +5,6 @@ export const tabAnimatedIcon = () => {
     let left = true;
     const icon = document.getElementsByTagName('link')[0];
     icon.type = 'image/png'
-    console.log(icon);
     setInterval(
         () => {
             if (left) {
