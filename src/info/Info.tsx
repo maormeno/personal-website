@@ -35,7 +35,8 @@ export const info = {
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
             emoji: '🌎🇨🇱',
-            text: 'currently based in Chile'
+            text: 'currently based in Chile',
+            link: false,
         },
         {
             emoji: "💼",
@@ -43,11 +44,13 @@ export const info = {
         },
         {
             emoji: '📚',
-            text: 'MSc student'
+            text: 'MSc student at ',
+            link: true
         },
         {
             emoji: "📧",
-            text: "maormeno@uc.cl"
+            text: "maormeno@uc.cl",
+            link: false
         }
     ],
     socials: [
