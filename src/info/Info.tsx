@@ -105,12 +105,12 @@ export const info = {
             source: "https://github.com/maormeno/smartcities", // this should be a link to the **repository** of the project, where the code is hosted.
             image: 'notyet'
         },
-        // {
-        //     title: "Project 2",
-        //     live: "https://paytonpierce.dev",
-        //     source: "https://github.com/paytonjewell",
-        //     image: mock2
-        // },
+        {
+            title: "Optrip",
+            // live: "https://paytonpierce.dev",
+            source: "https://github.com/cfalvarez2/optrip-frontend",
+            image: 'notyet'
+        },
         // {
         //     title: "Project 3",
         //     live: "https://paytonpierce.dev",
