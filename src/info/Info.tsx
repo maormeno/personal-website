@@ -70,7 +70,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Mateo. I'm a part-time software engineer at DataScope. I studied Computing Engineering at Pontificia Universidad Catolica de Chile and currently pursing a Master's degree, researching about Human Centered AI. I enjoy going to the gym, learning new things, playing videogames, knowing new people and spending time with my family and friends. I strongly believe computers along with well-developed software, enhanced with correctly designed and implemented AI, can lead to really positive and meaningful impacts in our lives. Contact me!",
+    bio: "Hello! I'm Mateo. I'm a part-time software engineer at DataScope. I studied Computing Engineering at Pontificia Universidad Catolica de Chile and I am currently pursing a Master's degree, researching about Human Centered AI. I enjoy going to the gym, learning new things, playing videogames, knowing new people and spending time with my family and friends. I strongly believe computers along with well-developed software, enhanced with correctly designed and implemented AI, can lead to really positive and meaningful impacts in our lives. Contact me!",
     skills:
         {
             proficientWith: ['python', 'typescript', 'ruby', 'React', 'Ruby on Rails', 'git', 'github', 'postgres'],
