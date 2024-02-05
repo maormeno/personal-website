@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.e96e3880.css",
-    "main.js": "/personal-website/static/js/main.5ba994ac.js",
-    "static/js/787.9a1a604b.chunk.js": "/personal-website/static/js/787.9a1a604b.chunk.js",
-    "static/media/aiobservatories.png": "/personal-website/static/media/aiobservatories.24adc9ffd8ff4107c43c.png",
-    "static/media/self.png": "/personal-website/static/media/self.b46e2345d1dd1edafe95.png",
-    "static/media/smartcities.png": "/personal-website/static/media/smartcities.7272fd842b048ddf61fa.png",
-    "static/media/searchengines.png": "/personal-website/static/media/searchengines.848ddab25f25ba062b11.png",
-    "static/media/timberstock.png": "/personal-website/static/media/timberstock.cac5bc57df76410b3cf5.png",
-    "static/media/frame_2.png": "/personal-website/static/media/frame_2.8e431261805173aa83d8.png",
-    "static/media/frame_1.png": "/personal-website/static/media/frame_1.a3ec7a5426984d3ec18e.png",
-    "index.html": "/personal-website/index.html",
-    "main.e96e3880.css.map": "/personal-website/static/css/main.e96e3880.css.map",
-    "main.5ba994ac.js.map": "/personal-website/static/js/main.5ba994ac.js.map",
-    "787.9a1a604b.chunk.js.map": "/personal-website/static/js/787.9a1a604b.chunk.js.map"
+    "main.css": "/static/css/main.e96e3880.css",
+    "main.js": "/static/js/main.40fd7e8d.js",
+    "static/js/787.9a1a604b.chunk.js": "/static/js/787.9a1a604b.chunk.js",
+    "static/media/aiobservatories.png": "/static/media/aiobservatories.24adc9ffd8ff4107c43c.png",
+    "static/media/self.png": "/static/media/self.b46e2345d1dd1edafe95.png",
+    "static/media/smartcities.png": "/static/media/smartcities.7272fd842b048ddf61fa.png",
+    "static/media/searchengines.png": "/static/media/searchengines.848ddab25f25ba062b11.png",
+    "static/media/timberstock.png": "/static/media/timberstock.cac5bc57df76410b3cf5.png",
+    "static/media/frame_2.png": "/static/media/frame_2.8e431261805173aa83d8.png",
+    "static/media/frame_1.png": "/static/media/frame_1.a3ec7a5426984d3ec18e.png",
+    "index.html": "/index.html",
+    "main.e96e3880.css.map": "/static/css/main.e96e3880.css.map",
+    "main.40fd7e8d.js.map": "/static/js/main.40fd7e8d.js.map",
+    "787.9a1a604b.chunk.js.map": "/static/js/787.9a1a604b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e96e3880.css",
-    "static/js/main.5ba994ac.js"
+    "static/js/main.40fd7e8d.js"
   ]
 }
